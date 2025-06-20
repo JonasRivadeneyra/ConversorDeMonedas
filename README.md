@@ -50,7 +50,9 @@ El proyecto usa una clave API para conectarse al servicio de tipo de cambio.
 ## 📞 Contacto
 
 Autor: Jonas Rivadeneyra Aznaran  
+
 Correo: [aznaranjonas@gmail.com]
+
 Celular: +51907094805
 
 ---
